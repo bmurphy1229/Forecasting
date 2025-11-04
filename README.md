@@ -1,4 +1,4 @@
-# Forecasting
+# Currency Value Forecasting
 #In ten years, where will the cheapest Big Macs be?
 #Ten year prediction of currency valuations relative to US Dollar
 #This will be used to find undervalued currencies relative to US Dollar by using the Economist's Big Mac Index
